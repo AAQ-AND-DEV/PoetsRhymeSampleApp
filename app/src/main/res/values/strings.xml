@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PoetsRhyme Sample App</string>
+    <string name="address_info_txt">Poetsrhyme.com \nc/o Aaron Quaday \nGeneral Delivery \nSanta Cruz, CA 95060</string>
+    <string name="biz_name_txt">Poetsrhyme.com</string>
+    <string name="url_txt">www.poetsrhyme.com</string>
+    <string name="motto_txt">A site for creatives by creatives</string>
+</resources>
